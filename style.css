@@ -1,0 +1,54 @@
+@import url("https://fonts.cdnfonts.com/css/creepy-tales-personal-use");
+
+html {
+  font-family: "Creepy Tales Personal Use", sans-serif;
+}
+header {
+  font-family: "Creepy Tales Personal Use", sans-serif;
+  font-size: 20vh;
+  text-align: center;
+  background: #121fcf;
+  background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body {
+  margin: 50px;
+}
+
+.X {
+  font-family: "Creepy Tales Personal Use", sans-serif;
+  font-size: 80px;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  width: 100px;
+  height: 100px;
+}
+
+.jatekter {
+  margin: auto;
+  width: 300px;
+}
+
+.jatekterBelso {
+  display: grid;
+  grid-template-columns: 101px 101px 101px;
+  grid-template-rows: 101px 101px 101px;
+}
+
+.elem {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.nev {
+  font-family: "Creepy Tales Personal Use", sans-serif;
+  font-size: 5vh;
+  text-align: center;
+  background: #121fcf;
+  background: linear-gradient(to right, #121fcf 0%, #cf1512 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
